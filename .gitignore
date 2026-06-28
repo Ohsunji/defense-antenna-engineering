@@ -1,0 +1,12 @@
+﻿# 코드/md 외 제외
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.zip
+*.png
+*.mat
+*.m~
+*.asv
+# 강의자료
+2026_안테나공학_*.pdf
