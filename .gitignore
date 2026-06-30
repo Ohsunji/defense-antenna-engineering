@@ -5,6 +5,7 @@
 *.xlsx
 *.zip
 *.png
+!results/*.png
 *.mat
 *.m~
 *.asv
